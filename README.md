@@ -2,4 +2,4 @@
 For ElZero Web School Git Course
 
 
-## project notes
+## Project Notes
